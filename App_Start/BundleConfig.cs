@@ -26,7 +26,7 @@ namespace volunteer_app
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css",
-                      ~/Content/half-slider.css));
+                      "~/Content/half-slider.css"));
         }
     }
 }
